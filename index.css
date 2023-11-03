@@ -1,0 +1,17 @@
+/* Estilo para los resultados */
+#results {
+    list-style: none;
+    padding: 0;
+    display: none;
+  }
+  
+  #results li {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #results li:hover {
+    background-color: #f0f0f0;
+  }
+  
